@@ -8,7 +8,7 @@ django-registration==3.2
 -e git+https://github.com/manoocher/django-survey@79ee0b51f5370a0caa9c0e0d584785e418d87302#egg=django_survey_and_report
 django-tastypie==0.14.3
 idna==3.3
-numpy==1.21.4
+numpy
 ordereddict==1.1
 pandas==1.3.4
 python-dateutil==2.8.2
