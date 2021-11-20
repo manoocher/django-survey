@@ -1,0 +1,21 @@
+asgiref==3.4.1
+certifi==2021.10.8
+charset-normalizer==2.0.7
+confusable-homoglyphs==3.2.0
+Django==3.2.9
+django-bootstrap-form==3.4
+django-registration==3.2
+-e git+https://github.com/manoocher/django-survey@79ee0b51f5370a0caa9c0e0d584785e418d87302#egg=django_survey_and_report
+django-tastypie==0.14.3
+idna==3.3
+numpy==1.21.4
+ordereddict==1.1
+pandas==1.3.4
+python-dateutil==2.8.2
+python-mimeparse==1.6.0
+pytz==2021.3
+PyYAML==6.0
+requests==2.26.0
+six==1.16.0
+sqlparse==0.4.2
+urllib3==1.26.7
